@@ -1,4 +1,6 @@
 # klikenklaaraandemuur
 Klik en Klaar modem muurbeugel
 
-Nog niet getest, dus printen op eigen risico.
+Inmiddels is er 1 exemplaar geprint en opgehangen :)
+
+
